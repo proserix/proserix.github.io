@@ -2,7 +2,7 @@
 
 ### Introducción
 
-Use este template si necesitas un portafolio data science! Está basado en el tema "Minimal" de Jekyll para GitHub y en el "quick-portfolio" de Evanca (ver <https://github.com/evanca/quick-portfolio>).
+Utiliza este template para construir un portafolio data science! Se basa en el tema "Minimal" de Jekyll para GitHub y en el "quick-portfolio" de Evanca (ver <https://github.com/evanca/quick-portfolio>).
 
 <img src="images/demo.gif?raw=true"/>
 
