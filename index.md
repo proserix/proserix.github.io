@@ -7,7 +7,7 @@
 
 Escribir una pequeña introducción de este proyecto.
 
-<img src="images/dummy_thumbnail.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -16,7 +16,7 @@ Escribir una pequeña introducción de este proyecto.
 
 Escribir una pequeña introducción de este proyecto.
 
-<img src="images/dummy_thumbnail.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -25,7 +25,7 @@ Escribir una pequeña introducción de este proyecto.
 
 Escribir una pequeña introducción de este proyecto.
 
-<img src="images/dummy_thumbnail.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
