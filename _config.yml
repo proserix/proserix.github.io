@@ -8,5 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Tengo experiencia en ___________
   <br><br>
   <a href="https://www.linkedin.com/in/tulinkedin/">Entra a mi perfil de LinkedIn</a> 
+  <br><br>
+  <a href="/pdf/plantilla-curriculum-blanco.pdf">Ver mi Curriculum Vitae (CV) </a> 
   
 theme: jekyll-theme-minimal
