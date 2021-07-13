@@ -27,5 +27,6 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 - [Mi correo](correo@gmail.com)
 - [Twitter](https://twitter.com/tutwitter)
 - [Medium](https://medium.com/@tumedium)
+- [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
 
 ---
