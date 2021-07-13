@@ -3,7 +3,7 @@
 ---
 
 ### Mi primer proyecto
-[Análisis de series de tiempo](https://medium.com/datos-y-ciencia/modelos-de-series-de-tiempo-en-python-f861a25b9677){:target="_blank"}
+[Análisis de series de tiempo](https://medium.com/datos-y-ciencia/modelos-de-series-de-tiempo-en-python-f861a25b9677)
 <img src="images/miniatura.png?raw=true"/>
 
 ---
