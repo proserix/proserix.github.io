@@ -7,9 +7,10 @@
 
 Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog)
 
-<a href=https://medium.com/pagina-entrada-blog>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-</a>
+[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
+
+
+[![Explicacion de la gráfica](images/dummy_thumbnail.jpg?raw=true)](https://medium.com/pagina-entrada-blog)
 
 ---
 
@@ -18,9 +19,7 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog)
 
-<a href=https://medium.com/pagina-entrada-blog>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-</a>
 
 ---
 
@@ -29,9 +28,7 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog)
 
-<a href=https://medium.com/pagina-entrada-blog>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-</a>
 
 ---
 
