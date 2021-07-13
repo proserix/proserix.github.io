@@ -1,26 +1,8 @@
-# Bienvenido a mi Portfolio de Ciencia de Datos
+# Bienvenida o Bienvenido a mi Portfolio de Ciencia de Datos
 
 ---
 
 ## Mi primer proyecto
-[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
-
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog)
-
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
-
----
-
-## Un segundo proyecto
-[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
-
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog)
-
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
-
----
-
-## Otro proyecto adicional
 [Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
 
 Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog)
