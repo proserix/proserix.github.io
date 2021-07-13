@@ -1,8 +1,10 @@
 title: Rafael Gonzalez Gouveia # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist
+  Data Scientist, Madrid, ES
   <br><br>
   <a href="https://www.linkedin.com/in/gonzalezgouveia/">Entra a mi perfil de LinkedIn</a> 
+  <br><br>
+  <a href="https://github.com/gonzalezgouveia">Entra a mi perfil de GitHub</a> 
   
 theme: jekyll-theme-minimal
