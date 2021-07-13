@@ -1,9 +1,12 @@
-## Bienvenido a mi Portfolio de Ciencia de Datos
+# Bienvenido a mi Portfolio de Ciencia de Datos
 
 ---
 
-### Mi primer proyecto
+## Mi primer proyecto
 [Análisis de series de tiempo](https://medium.com/datos-y-ciencia/modelos-de-series-de-tiempo-en-python-f861a25b9677)
+
+Escribir una pequeña introducción de este proyecto.
+
 <img src="images/miniatura.png?raw=true"/>
 
 ---
