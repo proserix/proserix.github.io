@@ -3,35 +3,48 @@
 ---
 
 ## Mi primer proyecto
-[Análisis de series de tiempo](https://medium.com/datos-y-ciencia/modelos-de-series-de-tiempo-en-python-f861a25b9677)
+[Titulo del proyecto](https://medium.com/pagina-entrada-blog)
 
 Escribir una pequeña introducción de este proyecto.
 
-<img src="images/miniatura.png?raw=true"/>
+<img src="images/dummy_thumbnail.png?raw=true"/>
 
 ---
 
-### Category Name 1 
+## Un segundo proyecto
+[Titulo del proyecto](https://medium.com/pagina-entrada-blog)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Escribir una pequeña introducción de este proyecto.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.png?raw=true"/>
 
 ---
 
-### Category Name 2
+## Otro proyecto adicional
+[Titulo del proyecto](https://medium.com/pagina-entrada-blog)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Escribir una pequeña introducción de este proyecto.
+
+<img src="images/dummy_thumbnail.png?raw=true"/>
+
+
+---
+
+### Mis Skills son
+
+- Python
+- R
+- Excel
+- ...
+
+---
+
+### Me puedes contactar por una de estás vías
+
+- [LinkedIn](https://www.linkedin.com/in/tulinkedin/)
+- Correo electrónico a <correo@gmail.com>
+- [Mi correo](correo@gmail.com)
+- [Twitter](https://twitter.com/tutwitter)
+- [Medium](https://medium.com/@tumedium)
 
 ---
