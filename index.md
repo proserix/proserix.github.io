@@ -3,27 +3,29 @@
 ---
 
 ## Mi primer proyecto
-[Titulo del proyecto](https://medium.com/pagina-entrada-blog)
+[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
 
-Escribir una pequeña introducción de este proyecto.
+Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog)
 
+<a href=https://medium.com/pagina-entrada-blog>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+</a>
 
 ---
 
 ## Un segundo proyecto
-[Titulo del proyecto](https://medium.com/pagina-entrada-blog)
+[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
 
-Escribir una pequeña introducción de este proyecto.
+Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ## Otro proyecto adicional
-[Titulo del proyecto](https://medium.com/pagina-entrada-blog)
+[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
 
-Escribir una pequeña introducción de este proyecto.
+Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
