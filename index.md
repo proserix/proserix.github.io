@@ -3,9 +3,9 @@
 ---
 
 ## Mi primer proyecto
-[Titulo del proyecto con enlace](https://medium.com/@proserix/analisis-exploratorio-de-datos-con-python-caso-telco-ibm-f2ae155320e6)
+[ANALISIS EXPLORATORIO DE DATOS CON PYTHON](https://medium.com/@proserix/analisis-exploratorio-de-datos-con-python-caso-telco-ibm-f2ae155320e6)
 
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/@proserix/analisis-exploratorio-de-datos-con-python-caso-telco-ibm-f2ae155320e6) o [Ver código en GitHub](https://github.com/tu-repo)
+Escribir una pequeña introducción de este proyecto. [La motivación del análisis, es comprender el comportamiento de los clientes a fin de poder anticipar un riesgo inminente de fuga y, luego de la detección, poder lanzar alguna campaña de retención](https://medium.com/@proserix/analisis-exploratorio-de-datos-con-python-caso-telco-ibm-f2ae155320e6) o [Ver código en GitHub](https://github.com/tu-repo)
 
 [<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
 
