@@ -26,7 +26,7 @@ Trazar un perfil de cliente con altas chances de abandonar la empresa. [Seguir l
 - Excel
 - Sql
 - Estadistica
-- 
+
 ### Soft Skills
 - Analisis
 - Meticuloso
