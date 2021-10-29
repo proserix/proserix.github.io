@@ -9,7 +9,7 @@ Comprender el comportamiento de los clientes a fin de poder anticipar un riesgo 
 
 [<img src="images/maxim-ilyahov-0aRycsfH57A-unsplash.jpg?raw=true"/>](https://medium.com/@proserix/analisis-exploratorio-de-datos-con-python-caso-telco-ibm-f2ae155320e6)
 
-## Proyecto de Analisis de Business Analytics
+## Proyecto de Business Analytics
 [BUSINESS ANALYTICS CON PYTHON CASO IBM](https://medium.com/@proserix/business-analytics-con-python-caso-ibm-72e3b13659e8)
 
 Trazar un perfil de cliente con altas chances de abandonar la empresa. [Seguir leyendo en Medium](https://medium.com/@proserix/business-analytics-con-python-caso-ibm-72e3b13659e8) o [Ver código en GitHub](https://github.com/tu-repo)
