@@ -1,14 +1,14 @@
-title: Tu nombre y apellido # your name (or website title) here
+title: Sebastian Gabriel Ponce de Leon # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist, Ciudad, País
+  Data Scientist, Cordoba, Argentina
   <br><br>
-  Mi objetivo es ___________
+  Mi objetivo es Desarrollarme y adquirir experiencia en el campo de la Ciencia de datos con especial foco en modelado y aprendizaje automático
   <br><br>
-  Tengo experiencia en ___________
+  Tengo experiencia en Analisis y modelizacion predictiva
   <br><br>
-  <a href="https://www.linkedin.com/in/tulinkedin/">Entra a mi perfil de LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/proserix/">Entra a mi perfil de LinkedIn</a> 
   <br><br>
-  <a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
+  <a href="/pdf/CV_Seba_actual.pdf">Mira mi Curriculum Vitae (CV) </a> 
   
 theme: jekyll-theme-minimal
