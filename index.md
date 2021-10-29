@@ -1,4 +1,4 @@
-# Bienvenid@ a mi Portfolio de Ciencia de Datos
+# Bienvenid@ a mi Portfolio
 
 ---
 
@@ -18,14 +18,18 @@ Trazar un perfil de cliente con altas chances de abandonar la empresa. [Seguir l
 
 ---
 
-### Mis Skills son
+### Skills
 
+#### Hard Skills
 - Python
 - R
 - Excel
 - Sql
 - Estadistica
+- 
+### Soft Skills
 - Analisis
+- Meticuloso
 
 ---
 
