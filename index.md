@@ -2,10 +2,17 @@
 
 ---
 
-## Mi primer proyecto
+## Proyecto de Analisis de Datos
 [ANALISIS EXPLORATORIO DE DATOS CON PYTHON](https://medium.com/@proserix/analisis-exploratorio-de-datos-con-python-caso-telco-ibm-f2ae155320e6)
 
-Escribir una pequeña introducción de este proyecto. [La motivación del análisis, es comprender el comportamiento de los clientes a fin de poder anticipar un riesgo inminente de fuga y, luego de la detección, poder lanzar alguna campaña de retención](https://medium.com/@proserix/analisis-exploratorio-de-datos-con-python-caso-telco-ibm-f2ae155320e6) o [Ver código en GitHub](https://github.com/tu-repo)
+Comprender el comportamiento de los clientes a fin de poder anticipar un riesgo inminente de fuga y, luego de la detección, poder lanzar alguna campaña de retención. [Seguir leyendo en Medium](https://medium.com/@proserix/analisis-exploratorio-de-datos-con-python-caso-telco-ibm-f2ae155320e6) o [Ver código en GitHub](https://github.com/tu-repo)
+
+[<img src="images/maxim-ilyahov-0aRycsfH57A-unsplash.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
+
+## Proyecto de Analisis de Business Analytics
+[BUSINESS ANALYTICS CON PYTHON CASO IBM](https://medium.com/@proserix/business-analytics-con-python-caso-ibm-72e3b13659e8)
+
+Trazar un perfil de cliente con altas chances de abandonar la empresa. [Seguir leyendo en Medium](https://medium.com/@proserix/business-analytics-con-python-caso-ibm-72e3b13659e8) o [Ver código en GitHub](https://github.com/tu-repo)
 
 [<img src="images/maxim-ilyahov-0aRycsfH57A-unsplash.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
 
@@ -16,7 +23,9 @@ Escribir una pequeña introducción de este proyecto. [La motivación del análi
 - Python
 - R
 - Excel
-- ...
+- Sql
+- Estadistica
+- Analisis
 
 ---
 
@@ -27,6 +36,6 @@ Escribir una pequeña introducción de este proyecto. [La motivación del análi
 - [GitHub](https://github.com/proserix/)
 - [Twitter](https://twitter.com/tu-twitter)
 - [Medium](https://medium.com/@proserix)
-- [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
+- [Mi CV](/pdf/CV_Seba_actual.pdf)
 
 ---
