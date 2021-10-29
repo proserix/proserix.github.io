@@ -1,4 +1,4 @@
-# Bienvenida o Bienvenido a mi Portfolio de Ciencia de Datos
+# Bienvenid@ a mi Portfolio de Ciencia de Datos
 
 ---
 
