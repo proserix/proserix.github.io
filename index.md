@@ -28,8 +28,11 @@ Trazar un perfil de cliente con altas chances de abandonar la empresa. [Seguir l
 - Estadistica
 
 ### Soft Skills
-- Analisis
+- Analitico
 - Meticuloso
+- Proactivo
+- Dinamico
+- Empatico
 
 ---
 
