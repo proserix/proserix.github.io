@@ -16,9 +16,9 @@ Trazar un perfil de cliente con altas chances de abandonar la empresa. [Seguir l
 
 [<img src="images/kaleidico-3V8xo5Gbusk-unsplash.jpg?raw=true"/>](https://medium.com/@proserix/business-analytics-con-python-caso-ibm-72e3b13659e8)
 
-## [Dashboard confeccionado en R (Shiny)](https://spdl.shinyapps.io/TelcoIBM_ShinyApp/)
+## Dashboard interactivo en R (Shiny y plotly)
+Confeccion de dashboard explicativo de los resultados de analisis predictivo. Puede verlo en el siguiente [enlace](https://spdl.shinyapps.io/TelcoIBM_ShinyApp/)
 
-Confeccion de dashboard explicativo de los resultados de analisis predictivo
 ---
 
 ### Skills
