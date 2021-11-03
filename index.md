@@ -26,6 +26,8 @@ Trazar un perfil de cliente con altas chances de abandonar la empresa. [Seguir l
 - Excel
 - Sql
 - Estadistica
+- PowerBI
+- GIT
 
 ### Soft Skills
 - Analitico
@@ -33,6 +35,7 @@ Trazar un perfil de cliente con altas chances de abandonar la empresa. [Seguir l
 - Proactivo
 - Dinamico
 - Empatico
+- Curioso
 
 ---
 
