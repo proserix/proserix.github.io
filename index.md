@@ -3,9 +3,9 @@
 ---
 
 ## Dashboard Interactivo con Dash y python
-Dasboard explicativo de proyecto de machine learning predictivo en TelcoIBM. El mismo reflejara los resultados obtenidos de la implementacion de tecnicas de machine learning predictivo y la estimacion de ROI final.[ver Código en gitHub]
+Dasboard explicativo de proyecto de machine learning predictivo en TelcoIBM. El mismo reflejara los resultados obtenidos de la implementacion de tecnicas de machine learning predictivo y la estimacion de ROI final.[ver Código en gitHub](https://github.com/proserix/proyecto-telco-main/tree/main/Notebooks)
 
-[<img src="images/Dashboard.png?raw=true"/>]
+[<img src="images/Dashboard.png?raw=true"/>](https://github.com/proserix/proyecto-telco-main/tree/main/Notebooks)
 
 ## Machine Learning Predictivo
 Proyecto integral de ciencia de datos. Desde la fase de exploracion y analisis inicial, al despliegue de los mejores algoritmos de clasificacion. Analisis de metricas relevantes, regularizacion e hiperparametrizacion.[Ver código en gitHub](https://github.com/proserix/proyecto-telco-main/tree/main/Notebooks)
