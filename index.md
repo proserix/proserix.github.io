@@ -5,7 +5,7 @@
 ## Regresion Logistica con python
 Aplicacion integral del modelo de Regresion Logistica para deteccion de abandonos. Analisis de metricas e hiperparametrizacion del modelo.[Seguir leyendo en Medium](https://medium.com/@proserix/regresion-logistica-con-python-27eada65bac9) o [Ver codigo en gitHub](https://github.com/proserix/proyecto-telco-main/tree/main/Notebooks)
 
-[<img src="kevin-ku-w7ZyuGYNpRQ-unsplash.jpg?raw=true"/>](https://medium.com/@proserix/regresion-logistica-con-python-27eada65bac9)
+[<img src="images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg?raw=true"/>](https://medium.com/@proserix/regresion-logistica-con-python-27eada65bac9)
 
 ## Dashboard Interactivo con Dash y python
 Dasboard explicativo de proyecto de machine learning predictivo en TelcoIBM. El mismo reflejara los resultados obtenidos de la implementacion de tecnicas de machine learning predictivo y la estimacion de ROI final.[ver Código en gitHub](https://github.com/proserix/proyecto-telco-main/tree/main/Notebooks)
