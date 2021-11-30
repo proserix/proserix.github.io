@@ -2,6 +2,9 @@
 
 ---
 
+## Redes Neuronales con Python para deteccion de Fraudes
+Analisis de un conjunto de datos liberado por Visa. Se pretende confeccionar un estudio del conjunto de datos, a fin de confeccionar un modelo predictivo para deteccion de Fraudes en operaciones con tarjeta de credito. [Ver codigo en gitHub](https://github.com/proserix/proyecto_credit_risk/blob/main/Proyecto.ipynb)
+
 ## Regresion Logistica con python
 Aplicacion integral del modelo de Regresion Logistica para deteccion de abandonos. Analisis de metricas e hiperparametrizacion del modelo.[Seguir leyendo en Medium](https://medium.com/@proserix/regresion-logistica-con-python-27eada65bac9) o [Ver codigo en gitHub](https://github.com/proserix/proyecto-telco-main/tree/main/Notebooks)
 
