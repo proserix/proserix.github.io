@@ -1,8 +1,11 @@
 # Bienvenid@ a mi Portfolio
 
 ---
+## Optimizacion de E-Commerce
+Proyecto completo de business intelligence y analytics desarrollado en python. Solicitar
+
 ## Redes Neuronales en Series de tiempo para pronostico de demanda
-Aplicacion de modelos de series de tiempo y redes neuronales recurrentes (LSTM) en Proyecto colaborativo para concurso en Kopuru. En Proceso..
+Aplicacion de modelos de series de tiempo y redes neuronales recurrentes (LSTM) en Proyecto colaborativo para concurso en Kopuru. Solicitar
 
 ## Redes Neuronales con Python para deteccion de Fraudes
 Analisis de un conjunto de datos liberado por Visa. Se pretende confeccionar un estudio del conjunto de datos, a fin de confeccionar un modelo predictivo para deteccion de Fraudes en operaciones con tarjeta de credito. Compiten los mejores algortimos de clasificacion, Regresion logistica, Randon Forest, XGBoost y Las redes neuronales. [Ver codigo en gitHub](https://github.com/proserix/proyecto_credit_risk/blob/main/Proyecto.ipynb)
