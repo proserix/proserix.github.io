@@ -1,6 +1,9 @@
 # Bienvenid@ a mi Portfolio
 
 ---
+## Analisis de Series temporales para prediccion de Demanda
+Proyecto de analisis de series temporales univariantes y multivariantes. Variables Exogenas. Desarrollo de modelos predictivos con metodologia estadistica clasica y con redes neuronales LSTM. Solicitar.
+
 ## Optimizacion de E-Commerce
 Proyecto completo de business intelligence y analytics desarrollado en python. Solicitar
 
@@ -57,6 +60,7 @@ Limpieza de dataset y puesta a punto para analisis con machine learnin predictiv
 - Sql
 - Estadistica
 - PowerBI
+- Microstrategy
 - GIT
 
 ### Soft Skills
