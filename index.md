@@ -4,10 +4,10 @@
 ## Analisis de Series temporales para prediccion de Demanda de servicios en ambito de logistica
 Proyecto de analisis de series temporales univariantes y multivariantes con granulariadad horaria. Creacion de variables exogenas. Analisis de outliers. Desarrollo y mantenimiento de modelos predictivos con Python, skforecast, sklearn, statsmodels y redes neuronales.
 
-### Desarrollo de simulador de asignacion de moviles
+#### - Desarrollo de simulador de asignacion de moviles
 Desarrollo e implementacion de un simulador automatico de moviles con Python y Dash.
 
-### Desarrollo de sistema de colas de espera
+#### - Desarrollo de sistema de colas de espera
 Desarrollo e implementacion de sistema de colas de espera para aplicacion en ambito de logistica.
 
 ## Analisis de Series temporales para prediccion de Demanda
