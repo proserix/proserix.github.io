@@ -1,6 +1,9 @@
 # Bienvenid@ a mi Portfolio
 
 ---
+## Analisis de Series temporales para prediccion de demora de servicios en ambito de logistica
+Proyecto de analisis de series temporales univariantes y multivariantes con granularidad horaria. Desarrollo, puesta en produccion y mantenimiento del modelo resultante. Herramientas utillizadas: Python, Sklearn, SkForecast, Statsmodels, Folium, Dash, Linux, Docker, Airflow. Average Ratio: 93%. 
+
 ## Analisis de Series temporales para prediccion de Demanda de servicios en ambito de logistica
 Proyecto de analisis de series temporales univariantes y multivariantes con granulariadad horaria. Creacion de variables exogenas. Analisis de outliers. Desarrollo y mantenimiento de modelos predictivos con Python, skforecast, sklearn, statsmodels y redes neuronales.
 
