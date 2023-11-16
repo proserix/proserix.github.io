@@ -65,6 +65,10 @@ Limpieza de dataset y puesta a punto para analisis con machine learnin predictiv
 
 #### Hard Skills
 - Python
+- Linux
+- Docker
+- Kubernetes
+- Airflow
 - Dash
 - R
 - Excel
